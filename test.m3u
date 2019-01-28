@@ -366,19 +366,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 group-title="电视节目",青岛6
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
 
-#EXTINF:-1 group-title="创新中国",创新中国1
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/2000.m3u8
-#EXTINF:-1 group-title="创新中国",创新中国2
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/2000.m3u8
-#EXTINF:-1 group-title="创新中国",创新中国3
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/2000.m3u8
-#EXTINF:-1 group-title="创新中国",创新中国4
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/2000.m3u8
-#EXTINF:-1 group-title="创新中国",创新中国5
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/147a48b9f36a46879fb368410892b19d/2000.m3u8
-#EXTINF:-1 group-title="创新中国",创新中国6
-http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/2000.m3u8
-
 #EXTINF:-1 group-title="乡村爱情11",乡村爱情1
 https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhMGalAiqYUqD00ns42@@sd.m3u8
 #EXTINF:-1 group-title="乡村爱情11",乡村爱情2
@@ -420,3 +407,16 @@ http://youku163.zuida-bofang.com/20181202/21817_67a878ab/index.m3u8
 http://sohu.zuida-163sina.com/20181209/gyt5xkxo/index.m3u8
 #EXTINF:-1 group-title="风味人间",第08集
 http://youku163.zuida-bofang.com/20181216/22495_2b86a8c1/index.m3u8
+
+#EXTINF:-1 group-title="创新中国",创新中国1
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国2
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国3
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国4
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国5
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/147a48b9f36a46879fb368410892b19d/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国6
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/2000.m3u8
