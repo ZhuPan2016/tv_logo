@@ -7,6 +7,8 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 group-title="电视节目",中国气象
 http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1 group-title="电视节目",农林卫视
+http://stream.snrtv.com/sxtvs-nl.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-2财经
 http://39.137.76.32:8089/00/SNM/CHANNEL00000002/index.m3u8
 #EXTINF:-1 group-title="电视节目",CCTV-3综艺
@@ -73,8 +75,6 @@ http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000028/index.m3u8
 #EXTINF:-1 group-title="电视节目",陕西卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8
-#EXTINF:-1 group-title="电视节目",农林卫视
-http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 group-title="电视节目",旅游卫视
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000030/index.m3u8
 #EXTINF:-1 group-title="电视节目",湖北卫视
@@ -137,8 +137,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225779/1.m3u8
 #EXTINF:-1 group-title="电视节目",生活时尚
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225771/1.m3u8
-#EXTINF:-1 group-title="电视节目",生活时尚
-rtsp://113.136.42.39:554/PLTV/88888888/224/0/3221225548/iptv19028.smil
 #EXTINF:-1 group-title="电视节目",劲爆体育
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="电视节目",第一财经
