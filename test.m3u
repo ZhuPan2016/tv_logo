@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="创新中国",创新中国1
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/b729d80cc13d40c2a0c8abc48584c902/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国2
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/c57e21095a314f5f99ab76f73df463f8/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国3
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/9cdda8b27ae34befbca3b5791c13040c/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国4
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/4649b34d0e1a4143adae1806a1d14869/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国5
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/147a48b9f36a46879fb368410892b19d/2000.m3u8
+#EXTINF:-1 group-title="创新中国",创新中国6
+http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/2d6045595cf443fcbb3a03c6800fd836/2000.m3u8
+
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情1
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhMGalAiqYUqD00ns42@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情2
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/GEsfURobrDuX8TylzF5@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情3
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/4CUE2LAKIWeozVsrfBW@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情4
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/L8p68xi0qkoxkvXrlj3@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情5
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/ZEqjX9qjRbczjnw1ucE@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情6
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/NnUViz9OjYFFwTRuCnv@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情7
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/XwnwYcrCkS6NZb86IcC@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情8
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/stuyrUKaTiUtUIAOM7Y@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情9
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/MJpOi3Cn9rhpHqKFFgs@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情10
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/lNBZOaUSCmOgwvPfPj8@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情11
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/NHykLNcxqSRvN9TM5Uv@@sd.m3u8
+#EXTINF:-1 group-title="乡村爱情11",乡村爱情12
+https://xiami.alicdn.com/l2nDqpMmn6DGHnWzZQA/OMhUBi9hrkRXUIGkizb@@sd.m3u8
+
+#EXTINF:-1 group-title="风味人间",第01集
+http://youku163.zuida-bofang.com/20181028/18933_22817b9c/index.m3u8
+#EXTINF:-1 group-title="风味人间",第02集
+http://youku163.zuida-bofang.com/20181104/19895_0ec5a6bb/index.m3u8
+#EXTINF:-1 group-title="风味人间",第03集
+http://youku163.zuida-bofang.com/20181111/20398_6bc421fc/index.m3u8
+#EXTINF:-1 group-title="风味人间",第04集
+http://youku163.zuida-bofang.com/20181118/20855_42f00e44/index.m3u8
+#EXTINF:-1 group-title="风味人间",第05集
+http://iqiyi.qq-zuidazy.com/20181125/1463_0e7b3954/index.m3u8
+#EXTINF:-1 group-title="风味人间",第06集
+http://youku163.zuida-bofang.com/20181202/21817_67a878ab/index.m3u8
+#EXTINF:-1 group-title="风味人间",第07集
+http://sohu.zuida-163sina.com/20181209/gyt5xkxo/index.m3u8
+#EXTINF:-1 group-title="风味人间",第08集
+http://youku163.zuida-bofang.com/20181216/22495_2b86a8c1/index.m3u8
